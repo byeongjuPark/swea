@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "증가하는사탕수열",
+            "request": "launch",
+            "mainClass": "d3.증가하는사탕수열",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AlphaToDigit",
+            "request": "launch",
+            "mainClass": "d1.AlphaToDigit",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "Avg",
+            "request": "launch",
+            "mainClass": "d1.Avg",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "CompareNum",
+            "request": "launch",
+            "mainClass": "d1.CompareNum",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "DigitSum",
+            "request": "launch",
+            "mainClass": "d1.DigitSum",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "FindPassword",
+            "request": "launch",
+            "mainClass": "d1.FindPassword",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "MaxNum",
+            "request": "launch",
+            "mainClass": "d1.MaxNum",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "MidNum",
+            "request": "launch",
+            "mainClass": "d1.MidNum",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "ShareRemainder",
+            "request": "launch",
+            "mainClass": "d1.ShareRemainder",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "ValidateDate",
+            "request": "launch",
+            "mainClass": "d1.ValidateDate",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "d1.factorial",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "달팽이숫자",
+            "request": "launch",
+            "mainClass": "d2.달팽이숫자",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "삼육구",
+            "request": "launch",
+            "mainClass": "d2.삼육구",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "지그재그숫자",
+            "request": "launch",
+            "mainClass": "d2.지그재그숫자",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "최빈수",
+            "request": "launch",
+            "mainClass": "d2.최빈수",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "파리퇴치",
+            "request": "launch",
+            "mainClass": "d2.파리퇴치",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "회문검사",
+            "request": "launch",
+            "mainClass": "d2.회문검사",
+            "projectName": "swea_cbdc5292"
+        },
+        {
+            "type": "java",
+            "name": "원안의점",
+            "request": "launch",
+            "mainClass": "d3.원안의점",
+            "projectName": "swea_cbdc5292"
+        }
+    ]
+}
